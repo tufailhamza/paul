@@ -1,0 +1,1201 @@
+Contact Name,Address,City,State,ZIP Code,Phone,Email,Seller Score,Equity %,Property ID,Lead Source,Lead Status,Lead Score,Notes
+,32 Lolupe Ln Apt Q302,KIHEI,HI,96753-5123,,,0.65,1911788.0%,2-3-9-020-020-0143,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,361 Hihimanu St # 32,KIHEI,HI,96753-6929,,jgoldenetz@gmail.com,0.65,2032909.0%,2-2-2-024-035-0032,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Lenard Huston,1624 Hihimanu St # 132,KIHEI,HI,96753-6937,,,0.65,2001444.0%,2-2-2-024-035-0132,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Hugh Whipple,875 Hihimanu St # 24,KIHEI,HI,96753-6929,,whiffleinc86@gmail.com,0.65,2368864.0%,2-2-2-024-035-0024,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,2924 Umeke Cir # 97,KIHEI,HI,96753-6918,,mike@aceair.com,0.65,1750931.0%,2-2-2-024-035-0097,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Till Hansen,641 Hihimanu St # 28,KIHEI,HI,96753-6929,,,0.65,1887629.0%,2-2-2-024-035-0028,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+William Brewer,4 Puuwai Pl,KIHEI,HI,96753-7175,,wolfycat15@gmail.com,0.65,1923869.0%,2-3-9-060-062-0000,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Robert Raimo,220 Kamakoi Loop,KIHEI,HI,96753-7122,,ellenraimo@yahoo.com,0.65,1627631.0%,2-3-9-014-008-0000,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Rene Brown,6 Lolupe Ln # M101,KIHEI,HI,96753-5120,,,0.65,1704916.0%,2-3-9-020-020-0119,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,1536 Halama St,KIHEI,HI,96753-8001,,ginamacdonald684@hotmail.com,0.65,9924527.0%,2-3-9-010-011-0000,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,4 Leanihi Ln # A105,KIHEI,HI,96753-5109,,,0.65,1769580.0%,2-3-9-020-020-0005,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Winifred Bennett,678 Umeke St # 50,KIHEI,HI,96753-6927,,danleebennett@gmail.com,0.65,2078381.0%,2-2-2-024-035-0050,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,528 Hihimanu St # 36,KIHEI,HI,96753-6936,,cfeinstein@concentric.net,0.65,2165956.0%,2-2-2-024-035-0036,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,8 Kilolani Ln # H303,KIHEI,HI,96753-5116,,rwills90@gmail.com,0.65,1699112.0%,2-3-9-020-020-0087,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Maureen Toohey,1375 Umeke Cir # 101,KIHEI,HI,96753-6919,,austin2e@yahoo.com,0.65,1980832.0%,2-2-2-024-035-0101,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,2925 Umeke Cir # 59,KIHEI,HI,96753-6924,,,0.65,2193182.0%,2-2-2-024-035-0059,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Marlene Schemitsch,2585 Omiko Pl,KIHEI,HI,96753-7138,,yolly.ventura@yahoo.com,0.65,1613997.0%,2-3-9-043-081-0000,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+David Krantz,14 Leanihi Ln # B303,KIHEI,HI,96753-5124,,,0.65,1728972.0%,2-3-9-020-020-0021,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Scott Beemer,16 Kilolani Ln # J105,KIHEI,HI,96753-5117,,janbeemer@comcast.net,0.65,1733340.0%,2-3-9-020-020-0093,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,373 Kenolio Rd,KIHEI,HI,96753-9024,,,0.65,3057638.0%,2-3-9-015-008-0000,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Terry Epstein,96 Moana Ave,KIHEI,HI,96753-7173,,terry8294@aol.com,0.65,2088344.0%,2-3-9-060-056-0000,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Robert Lanser,280 Kuli Puu Pl,KIHEI,HI,96753-7161,,furlanser50@bellsouth.net,0.65,1767243.0%,2-3-9-018-183-0000,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,516 Hihimanu St # 34,KIHEI,HI,96753-6936,,julieput@mac.com,0.65,2517771.0%,2-2-2-024-035-0034,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,1444 Halama St Apt 6,KIHEI,HI,96753-8171,,andimkk@aol.com,0.65,3472945.0%,2-3-9-009-002-0000,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,2789 Hihimanu St # 110,KIHEI,HI,96753-6935,,,0.65,2283164.0%,2-2-2-024-035-0110,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Robert Matteson,1323 Umeke Cir # 102,KIHEI,HI,96753-6919,,katiesuematteson@gmail.com,0.65,1655553.0%,2-2-2-024-035-0102,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,F105 Kea Alii Alanui Apt,KIHEI,HI,96753,,alvivcohen@msn.com,0.65,1590500.0%,2-3-9-020-020-0060,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,1543 Halama St,KIHEI,HI,96753-8002,,corey1000w@gmail.com,0.65,1644268.0%,2-3-9-010-031-0000,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,26 Lolupe Ln Apt P202,KIHEI,HI,96753-5122,,jdolan@lvcm.com,0.65,1560754.0%,2-3-9-020-020-0134,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Michael Guarino,2439 Hihimanu St # 115,KIHEI,HI,96753-6934,,,0.65,2189999.0%,2-2-2-024-035-0115,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,210 Umeke St # 40,KIHEI,HI,96753-6926,,ijcougrhlain61@aol.com,0.65,1706977.0%,2-2-2-024-035-0040,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,2851 Hihimanu St # 109,KIHEI,HI,96753-6935,,,0.65,1943303.0%,2-2-2-024-035-0109,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Gail Bajer,1563 Hihimanu St # 13,KIHEI,HI,96753-6931,,,0.65,1607672.0%,2-2-2-024-035-0013,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,455 S Kihei Rd,KIHEI,HI,96753-9045,,david_kong@nonalanicottages.com,0.65,3013318.0%,2-3-9-041-001-0000,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,2781 Umeke Cir # 61,KIHEI,HI,96753-6923,,donrose1@charter.net,0.65,1997517.0%,2-2-2-024-035-0061,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Sylvano Delcolle,10 Upena Ln Apt 101,KIHEI,HI,96753-5112,,,0.65,1717874.0%,2-3-9-020-020-0034,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,564 Umeke St # 48,KIHEI,HI,96753-6926,,kevinsnoddy@comcast.net,0.65,1920692.0%,2-2-2-024-035-0048,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,30 Kilolani Ln Apt L105,KIHEI,HI,96753-5119,,evwilliam.sie45@cox.net,0.65,1641906.0%,2-3-9-020-020-0112,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,414 Umeke St # 45,KIHEI,HI,96753-6926,,,0.65,1646609.0%,2-2-2-024-035-0045,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,2491 Hihimanu St # 114,KIHEI,HI,96753-6934,,bobmfed@gmail.com,0.65,2218648.0%,2-2-2-024-035-0114,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,2903 Hihimanu St # 108,KIHEI,HI,96753-6935,,jltobis@aol.com,0.65,2142807.0%,2-2-2-024-035-0108,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Carleton Hlady,736 Umeke St # 51,KIHEI,HI,96753-6943,,carltonh2931@aol.com,0.65,2161087.0%,2-2-2-024-035-0051,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,1760 S Kihei Rd,KIHEI,HI,96753-8056,,jrecopuerto@outlook.com,0.65,3321633.0%,2-3-9-011-061-0000,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Chester Goldberg,2399 Umeke Cir # 68,KIHEI,HI,96753-6922,,mauichet07@aol.com,0.65,2197318.0%,2-2-2-024-035-0068,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Thomas Bell,1566 Hihimanu St # 133,KIHEI,HI,96753-6937,,kab0452@aol.com,0.65,2177256.0%,2-2-2-024-035-0133,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,1199 Umeke Cir # 104,KIHEI,HI,96753-6919,,kaycarlyle@earthlink.net,0.65,2163048.0%,2-2-2-024-035-0104,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,821 Halelea St # 122,KIHEI,HI,96753-6942,,tombmaui@msn.com,0.65,2118043.0%,2-2-2-024-035-0122,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+James Doran,1133 Hihimanu St # 20,KIHEI,HI,96753-6931,,southmauiguy@gmail.com,0.65,1617105.0%,2-2-2-024-035-0020,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,6 Lolupe Ln # M204,KIHEI,HI,96753-5120,,tinklermomma@gmail.com,0.65,1598600.0%,2-3-9-020-020-0124,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Roberta Susskind,1935 Hihimanu St # 7,KIHEI,HI,96753-6933,,crsusskind@aol.com,0.65,2106437.0%,2-2-2-024-035-0007,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,533 Hihimanu St # 30,KIHEI,HI,96753-6929,,,0.65,2351748.0%,2-2-2-024-035-0030,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,1780 Halama St,KIHEI,HI,96753-8010,,debgirdler@aol.com,0.65,9284426.0%,2-3-9-012-005-0000,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,312 Umeke St # 42,KIHEI,HI,96753-6926,,,0.65,1876455.0%,2-2-2-024-035-0042,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Ronald Dowhaniuk,18 Upena Ln # E302,KIHEI,HI,96753-5113,,,0.65,1625926.0%,2-3-9-020-020-0053,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Kenneth Kiene,204 Kaiola Pl,KIHEI,HI,96753-8939,,kkiene@yahoo.com,0.65,1932841.0%,2-3-9-035-094-0000,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,26 Lolupe Ln Apt P203,KIHEI,HI,96753-5122,,,0.65,1652265.0%,2-3-9-020-020-0135,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,1682 Hihimanu St # 131,KIHEI,HI,96753-6937,,jobrien182@yahoo.com,0.65,2226117.0%,2-2-2-024-035-0131,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+James Fritch,2310 Umeke Cir # 89,KIHEI,HI,96753-6917,,,0.65,2184708.0%,2-2-2-024-035-0089,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,14 Leanihi Ln # B302,KIHEI,HI,96753-5124,,,0.65,1794763.0%,2-3-9-020-020-0020,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,645 Halelea St # 125,KIHEI,HI,96753-6942,,ginnylee@rocketmail.com,0.65,2226743.0%,2-2-2-024-035-0125,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,1712 Hihimanu St # 130,KIHEI,HI,96753-6937,,,0.65,1674648.0%,2-2-2-024-035-0130,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,1166 Uluniu Rd,KIHEI,HI,96753-8244,,lbellafior@aol.com,0.65,2505168.0%,2-3-9-007-027-0000,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Brent Amil,1555 Umeke Cir # 84,KIHEI,HI,96753-6920,,aokawa@ogdenclinic.com,0.6477207392197125,1985138.0%,2-2-2-024-035-0084,Augur Seller Scoring,New,0.65,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Michael Romano,1150 Kahaapo Loop,KIHEI,HI,96753-5246,,lasvegastola@me.com,0.6409034907597536,1888359.0%,2-3-9-046-047-0000,Augur Seller Scoring,New,0.64,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,1199 Hihimanu St # 19,KIHEI,HI,96753-6931,,drbilan@aol.com,0.6357289527720739,1977390.0%,2-2-2-024-035-0019,Augur Seller Scoring,New,0.64,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,1786 Hihimanu St # 129,KIHEI,HI,96753-6937,,heister1949@gmail.com,0.6345790554414784,2266864.0%,2-2-2-024-035-0129,Augur Seller Scoring,New,0.63,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,Alahele Pl,KIHEI,HI,96753,,thomas.fairbanks@veca.com,0.6341683778234085,1813751.0%,2-3-9-017-034-0000,Augur Seller Scoring,New,0.63,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,1550 Umeke Cir # 99,KIHEI,HI,96753-6917,,,0.6204517453798768,2050873.0%,2-2-2-024-035-0099,Augur Seller Scoring,New,0.62,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,2644 Moolio Pl,KIHEI,HI,96753-7139,,annawaclaw969@hotmail.com,0.6179055441478439,2127823.0%,2-3-9-013-056-0000,Augur Seller Scoring,New,0.62,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Gary Meyer,1901 Umeke Cir # 78,KIHEI,HI,96753-6921,,garymeyer@sbcglobal.net,0.6179055441478439,1545919.0%,2-2-2-024-035-0078,Augur Seller Scoring,New,0.62,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,3023 Hihimanu St # 107,KIHEI,HI,96753-6935,,george_meng@hotmail.com,0.6175770020533881,2223192.0%,2-2-2-024-035-0107,Augur Seller Scoring,New,0.62,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Rick Ulmer,2832 Hihimanu St # 152,KIHEI,HI,96753-6938,,julmer04@gmail.com,0.6101848049281314,2169193.0%,2-2-2-024-035-0152,Augur Seller Scoring,New,0.61,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Michelle Chung,1501 Umeke Cir # 86,KIHEI,HI,96753-6920,,thmc27@yahoo.com,0.6078028747433265,1754837.0%,2-2-2-024-035-0086,Augur Seller Scoring,New,0.61,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,2700 Umeke Cir # 93,KIHEI,HI,96753-6948,,,0.6055852156057494,1723272.0%,2-2-2-024-035-0093,Augur Seller Scoring,New,0.61,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,489 Umeke St # 145,KIHEI,HI,96753-6925,,alsipkb@aol.com,0.60435318275154,2159065.0%,2-2-2-024-035-0145,Augur Seller Scoring,New,0.6,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Charles Yaeger,235 Kuli Puu St,KIHEI,HI,96753-7165,,,0.6,1022619.0%,2-3-9-018-147-0000,Augur Seller Scoring,New,0.6,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Roberto Andrade,40 Kai Makani Loop # R102,KIHEI,HI,96753-5524,,,0.6,1056688.0%,2-3-9-041-002-0084,Augur Seller Scoring,New,0.6,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Michael Piros,21 Muakau Loop,KIHEI,HI,96753-7366,,mpiros@comcast.net,0.6,1497244.0%,2-3-9-059-014-0000,Augur Seller Scoring,New,0.6,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,44 Kai Makani Loop # T201,KIHEI,HI,96753-5505,,,0.6,1103674.0%,2-3-9-041-002-0095,Augur Seller Scoring,New,0.6,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,16 Haumea Pl,KIHEI,HI,96753-7188,,,0.6,1450614.0%,2-3-9-060-074-0000,Augur Seller Scoring,New,0.6,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Jorge Gonzalez,34 Hauwahine Ln # G304,KIHEI,HI,96753-5115,,gjorge@aim.com,0.6,1029179.0%,2-3-9-020-020-0077,Augur Seller Scoring,New,0.6,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Rodrigo Yadao,308 Palanehe St,KIHEI,HI,96753-7022,,luvjojian@lycos.com,0.6,1145535.0%,2-3-9-047-120-0000,Augur Seller Scoring,New,0.6,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,97 Kahele Pl,KIHEI,HI,96753-8036,,stephenkieffer@comcast.net,0.6,1268169.0%,2-3-9-040-105-0000,Augur Seller Scoring,New,0.6,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Heather Freeheart,525 Kenolio Rd,KIHEI,HI,96753-9028,,freehearts@msn.com,0.6,1083092.0%,2-3-9-028-065-0000,Augur Seller Scoring,New,0.6,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,51 Koki Pl,KIHEI,HI,96753-8929,,cyomes1@gmail.com,0.6,1057693.0%,2-3-9-028-014-0000,Augur Seller Scoring,New,0.6,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Kecia Joy,24 Hooiki Pl,KIHEI,HI,96753-6084,,ms.jenniferchen@yahoo.com,0.6,1188804.0%,2-3-9-028-093-0000,Augur Seller Scoring,New,0.6,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Paul Arntsen,500 Umeke St # 47,KIHEI,HI,96753-6926,,,0.6,1489373.0%,2-2-2-024-035-0047,Augur Seller Scoring,New,0.6,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Wei Chia,801 Hihimanu St # 25,KIHEI,HI,96753-6929,,,0.6,1524495.0%,2-2-2-024-035-0025,Augur Seller Scoring,New,0.6,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Leslie Kral,40 Kai Makani Loop Apt 201,KIHEI,HI,96753-5524,,cocolocomocha@yahoo.com,0.6,1120341.0%,2-3-9-041-002-0085,Augur Seller Scoring,New,0.6,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Mark Hensley,116 Laukahi St,KIHEI,HI,96753-7177,,markhensley@yahoo.com,0.6,1110787.0%,2-3-9-060-078-0000,Augur Seller Scoring,New,0.6,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Dennis Tobin,21 Laumakani Loop,KIHEI,HI,96753-8200,,dennistobin@att.net,0.6,1200360.0%,2-3-9-054-088-0000,Augur Seller Scoring,New,0.6,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+William Sams,2635 Umeke Cir # 63,KIHEI,HI,96753-6923,,,0.6,1235105.0%,2-2-2-024-035-0063,Augur Seller Scoring,New,0.6,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,1073 Hihimanu St # 21,KIHEI,HI,96753-6930,,,0.6,1132800.0%,2-2-2-024-035-0021,Augur Seller Scoring,New,0.6,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,44 Waiapo St,KIHEI,HI,96753-7354,,triumphz28@yahoo.com,0.6,1540457.0%,2-3-9-059-031-0000,Augur Seller Scoring,New,0.6,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Kayla Kasbergen,26 Lolupe Ln Apt P103,KIHEI,HI,96753-5127,,,0.6,1434414.0%,2-3-9-020-020-0131,Augur Seller Scoring,New,0.6,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Steven Johnson,26 Lolupe Ln Apt P104,KIHEI,HI,96753-5127,,dyj1958@gmail.com,0.6,1383915.0%,2-3-9-020-020-0132,Augur Seller Scoring,New,0.6,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,8 Kilolani Ln # H203,KIHEI,HI,96753-5116,,radcliffe275abu@yahoo.com,0.6,1377612.0%,2-3-9-020-020-0084,Augur Seller Scoring,New,0.6,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+,264 Wainohia St,KIHEI,HI,96753-7032,,irenemae.abut@yahoo.com,0.6,1177417.0%,2-3-9-047-012-0000,Augur Seller Scoring,New,0.6,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+Roderick Viloria,812 Malulani St,KIHEI,HI,96753-7324,,roderick.viloria@yahoo.com,0.6,1314640.0%,2-2-2-025-099-0000,Augur Seller Scoring,New,0.6,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
+David Gardiner,36 Kuli Puu St,KIHEI,HI,96753-7157,,marytambellini424@gmail.com,0.6,1244325.0%,2-3-9-018-096-0000,Augur Seller Scoring,New,0.6,"High probability seller - Score: 34     0.65
+41     0.65
+49     0.65
+70     0.65
+76     0.65
+       ... 
+314    0.60
+321    0.60
+342    0.60
+343    0.60
+344    0.60
+Name: Seller Score, Length: 100, dtype: float64"
