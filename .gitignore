@@ -190,3 +190,6 @@ secrets.json
 
 # Excel Sheets directory (seems to contain data files)
 Excel Sheets/
+
+# Streamlit secrets
+.streamlit/secrets.toml
